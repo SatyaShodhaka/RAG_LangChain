@@ -1,1 +1,1 @@
-# RAG_Ollama
+# RAG_LangChain
