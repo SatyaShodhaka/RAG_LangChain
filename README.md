@@ -167,19 +167,11 @@ pip install -r requirements.txt
 
 ## Future Improvements
 - Add support for additional file formats (e.g., PDF, TXT).
-- Implement user authentication for secure API key usage.
 - Optimize query performance for larger datasets.
 - Explore alternative vector stores like FAISS or Pinecone.
 
 ---
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
-
----
-
 ## Author
-[Your Name]  
-[Your Contact Information]  
-[Project Repository URL]
+Satya Shodhaka Rekha Prabhanjan 
 
