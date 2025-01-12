@@ -29,8 +29,8 @@ This project demonstrates a simple **Retrieval-Augmented Generation (RAG)** pipe
 ### Environment Setup
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/SatyaShodhaka/RAG_LangChain/tree/main
+    cd RAG_LangChain
     ```
 2. Create and activate a virtual environment:
     ```bash
